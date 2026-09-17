@@ -1,4 +1,201 @@
 export const quizData = {
+    "Turismo Rural": {
+        "Examen 2025 - Práctica 5305 Turismo rural BCN": [
+            {
+                "q": "Lea la siguiente información:\n\nEn un festival gastronómico rural, varios cocineros preparan bebidas tradicionales con maíz morado y especias transmitidas de generación en generación.\n\n¿A qué categoría del patrimonio turístico pertenece?",
+                "options": [
+                    "Patrimonio natural",
+                    "Patrimonio tangible construido",
+                    "Patrimonio cultural inmaterial"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una finca agroturística, los visitantes siembran café y tuestan granos; parte de las ganancias se destina a becas para estudiantes locales.\n\n¿Qué principio de sostenibilidad se refleja?",
+                "options": [
+                    "Generación de beneficios socioculturales",
+                    "Diversificación de canales de venta",
+                    "Incremento de la oferta internacional"
+                ],
+                "answer": 0
+            },
+            {
+                "q": "Lea la siguiente información:\n\nDurante una caminata en bosque lluvioso, la guía explica con ejemplos la función de los polinizadores y cómo protegerlos.\n\n¿Qué habilidad profesional aplica?",
+                "options": [
+                    "Control de inventarios turísticos",
+                    "Comunicación interpretativa",
+                    "Gestión administrativa"
+                ],
+                "answer": 1
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn un hotel de montaña, un colaborador presenta lumbalgia tras años levantando equipaje sin ayudas mecánicas.\n\n¿Cómo se clasifica esta condición según salud ocupacional?",
+                "options": [
+                    "Enfermedad profesional",
+                    "Enfermedad común",
+                    "Accidente esporádico"
+                ],
+                "answer": 0
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una feria de turismo rural en Guanacaste se presentan marimba y bailes folclóricos transmitidos por generaciones.\n\n¿A qué tipo de folklore corresponden?",
+                "options": [
+                    "Poético",
+                    "Musical y dancístico",
+                    "Mágico-religioso"
+                ],
+                "answer": 1
+            },
+            {
+                "q": "Lea la siguiente información:\n\nUn grupo visita una finca apícola que produce miel orgánica; observan extracción, catan variedades y participan en un taller culinario.\n\n¿Qué modalidad de turismo se ejemplifica?",
+                "options": [
+                    "Turismo de aventura",
+                    "Turismo de sol y playa",
+                    "Turismo gastronómico"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una posada rural se sirve como entrada una crema de pejibaye con ingredientes frescos cultivados en la zona.\n\n¿Qué característica gastronómica resalta esta preparación?",
+                "options": [
+                    "Uso de productos locales de temporada",
+                    "Promoción de comida rápida global",
+                    "Exclusividad en alimentos importados"
+                ],
+                "answer": 0
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una cafetería turística, un cliente pide chocolate caliente artesanal preparado con cacao molido, leche y especias locales.\n\n¿Qué valor cultural se destaca?",
+                "options": [
+                    "Modernización de recetas internacionales",
+                    "Sustitución por productos industrializados",
+                    "Rescate de tradiciones gastronómicas"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn un almuerzo de finca, se ofrece pan casero de horno de leña con queso fresco y natilla.\n\n¿Qué práctica de hospitalidad refleja este servicio?",
+                "options": [
+                    "Preferencia por alimentos de importación",
+                    "Valoración de la gastronomía casera tradicional",
+                    "Oferta centrada en comida rápida"
+                ],
+                "answer": 1
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn un tour nocturno de desove en el Pacífico costarricense, el guía explica que esta especie marina está en peligro de extinción y es foco del ecoturismo responsable.\n\n¿A cuál especie se refiere?",
+                "options": [
+                    "Iguana verde",
+                    "Mapache",
+                    "Tortuga baula"
+                ],
+                "answer": 2
+            }
+        ],
+        "Examen 2026 - Práctica Turismo rural": [
+            {
+                "q": "Lea la siguiente información:\n\nUna empresa dedicada al turismo rural presenta al cierre del periodo obligaciones con proveedores por ₡485 000, un préstamo pendiente de ₡392 000 y aportes de los propietarios por ₡1 172 000. Durante la revisión contable se requiere determinar el monto que debe reflejarse como total de recursos económicos de la empresa.\n\n¿Cuál valor permite mantener el equilibrio de la ecuación contable?",
+                "options": [
+                    "₡1 564 000",
+                    "₡1 657 000",
+                    "₡2 049 000",
+                    "₡2 441 000"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn un centro de turismo rural comunitario, las actividades operativas se distribuyen entre unidades responsables de hospedaje, alimentos y bebidas, mercadeo, mantenimiento y recepción. Cada unidad ejecuta tareas especializadas y reporta sus resultados a una administración central.\n\n¿Cuál estructura organizativa corresponde a la situación descrita?",
+                "options": [
+                    "Organización matricial",
+                    "Organización funcional",
+                    "Organización territorial",
+                    "Organización lineal militar"
+                ],
+                "answer": 1
+            },
+            {
+                "q": "Lea la siguiente información:\n\nAntes de iniciar un recorrido turístico en una comunidad rural, el personal técnico revisa rutas de desplazamiento, confirma disponibilidad de servicios médicos cercanos, valida documentación operativa, organiza equipos requeridos y verifica requerimientos particulares de los visitantes.\n\n¿A cuál etapa operativa corresponde el procedimiento descrito?",
+                "options": [
+                    "Ejecución",
+                    "Evaluación",
+                    "Preparación",
+                    "Comercialización"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nDurante una gira académica, un grupo de estudiantes analiza elementos representativos del patrimonio turístico costarricense vinculados con procesos históricos y manifestaciones desarrolladas por la sociedad a través del tiempo.\n\n¿Cuál opción constituye un ejemplo de patrimonio cultural material en Costa Rica?",
+                "options": [
+                    "Volcán activo",
+                    "Humedal costero",
+                    "Museo arqueológico",
+                    "Parque marino protegido"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una zona costera utilizada para recorridos turísticos interpretativos, el personal técnico analiza un ecosistema que favorece la reproducción de especies marinas, disminuye el impacto del oleaje sobre la costa y permite actividades recreativas asociadas al paisaje acuático.\n\n¿Cuál ecosistema corresponde a las características descritas?",
+                "options": [
+                    "Bosque nuboso",
+                    "Sabana tropical",
+                    "Manglar",
+                    "Páramo"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una finca turística, el encargado capacita al estudiantado sobre variables que modifican el perfil sensorial de una bebida a base de drupa, con una preparación de métodos filtrados y extracción controlada.\n\n¿Cuál competencia técnica se relaciona directamente con esta actividad?",
+                "options": [
+                    "Gestión de reservas hoteleras",
+                    "Control de inventarios alimentarios",
+                    "Diseño de paquetes turísticos integrados",
+                    "Técnicas de extracción y preparación de café"
+                ],
+                "answer": 3
+            },
+            {
+                "q": "Lea la siguiente información:\n\nDurante una actividad de interpretación ambiental en una playa del Caribe costarricense, el guía describe una tortuga marina de gran tamaño cuyo caparazón presenta una superficie flexible de apariencia coriácea, con crestas longitudinales, en lugar de placas córneas rígidas. La especie utiliza playas del país para completar parte de su ciclo reproductivo.\n\n¿Cuál especie corresponde a las características descritas?",
+                "options": [
+                    "Chelonia mydas",
+                    "Lepidochelys olivacea",
+                    "Dermochelys coriacea",
+                    "Eretmochelys imbricata"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nDurante una visita técnica a un parque nacional, el grupo observa un reptil arborícola con capacidad de modificar parcialmente la coloración corporal y mover cada ojo de forma independiente para ampliar su campo visual durante la búsqueda de alimento.\n\n¿Cuál nombre científico corresponde a la especie observada?",
+                "options": [
+                    "Ara macao",
+                    "Rhinella marina",
+                    "Corytophanes cristatus",
+                    "Odocoileus virginianus"
+                ],
+                "answer": 2
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn un centro de conservación de fauna silvestre se analiza un reptil acuático de gran tamaño caracterizado por poseer mandíbula robusta, hábitos oportunistas de alimentación y caparazón con textura irregular en etapa adulta.\n\n¿Cuál nombre científico corresponde a la especie descrita?",
+                "options": [
+                    "Iguana iguana",
+                    "Crocodylus acutus",
+                    "Chelydra serpentina",
+                    "Kinosternon scorpioides"
+                ],
+                "answer": 1
+            },
+            {
+                "q": "Lea la siguiente información:\n\nEn una clase de biología aplicada al turismo de naturaleza, el docente explica un conjunto de mamíferos cuyas crías completan gran parte de su desarrollo dentro del útero materno mediante intercambio fisiológico especializado antes del nacimiento.\n\n¿Cuál grupo de mamíferos presenta el tipo de desarrollo descrito?",
+                "options": [
+                    "Monotremas",
+                    "Marsupiales",
+                    "Placentarios",
+                    "Cetáceos"
+                ],
+                "answer": 2
+            }
+        ]
+    },
+
     "Educación Cívica": {
     "Bloque 1: Los regímenes políticos": [
         {
@@ -510,512 +707,8 @@ export const quizData = {
             "answer": 2
         }
     ]
-},
-    "Español": {
-        "Comprensión lectora y análisis literario": [
-        {
-                "q": "A partir de un pasaje sobre rencor, envidia, vanidad y crueldad, ¿qué idea literal se destaca?",
-                "options": [
-                        "El resentimiento perjudica sobre todo a quien lo experimenta.",
-                        "La vanidad y la crueldad acompañan necesariamente a toda persona hasta la muerte.",
-                        "El rencor provoca principalmente angustia en otras personas.",
-                        "Los disvalores siempre destruyen la armonía social."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "Según el texto sobre la protección internacional del jaguar, ¿qué exige el Convenio de Bonn a los Estados que comparten su hábitat?",
-                "options": [
-                        "Proteger únicamente a los ejemplares que estén en peligro inmediato.",
-                        "Crear nuevos refugios silvestres como única medida de conservación.",
-                        "Proteger al jaguar y facilitar la conservación de sus rutas migratorias.",
-                        "Considerar que los hábitats actuales ya son suficientes para proteger la especie."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué se desprende del texto sobre la brecha digital y la expansión de Internet?",
-                "options": [
-                        "La conectividad, por sí sola, garantiza la inclusión de toda la población.",
-                        "Más conectividad es suficiente para eliminar las desigualdades sociales.",
-                        "La brecha digital incluye tanto falta de acceso como carencias para usar las TIC.",
-                        "Las desigualdades digitales dependen principalmente de decisiones individuales."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "En el pasaje de Nuestra América, ¿qué se plantea sobre ciertos hijos de América que reniegan de sus raíces?",
-                "options": [
-                        "Los ejércitos americanos deben concentrarse en proteger la soberanía.",
-                        "Las personas nacidas en América carecen de voluntad para superarse.",
-                        "Algunos desprecian o avergüenzan sus propios orígenes.",
-                        "América no podrá prosperar mientras sus hijos no sean valientes."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "Según el texto sobre competencias digitales, ¿cuál es su importancia principal?",
-                "options": [
-                        "Son necesarias solamente para triunfar en empresas tecnológicas.",
-                        "Ayudan a desenvolverse eficazmente en el trabajo y en la vida cotidiana.",
-                        "Garantizan automáticamente el logro de cualquier meta personal o social.",
-                        "Constituyen por sí solas la base completa del desarrollo empresarial moderno."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué posición presenta el texto sobre alfabetización y competencia digital?",
-                "options": [
-                        "La alfabetización digital solo importa en educación universitaria.",
-                        "Las habilidades digitales son importantes para participar en la sociedad a lo largo de la vida.",
-                        "La competencia digital se limita al uso instrumental de computadoras en el trabajo.",
-                        "Las habilidades digitales reemplazan las formas tradicionales de comunicación."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "En Madame Bovary, ¿qué estado emocional del personaje ayuda a representar la imagen del aburrimiento como una 'araña'?",
-                "options": [
-                        "Una profunda desazón que invade su existencia.",
-                        "Un simple deseo pasajero de abandonar la ciudad.",
-                        "El arrepentimiento por haber asumido obligaciones familiares.",
-                        "Una soledad física que necesariamente modifica su conducta."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "En Mujeres de ojos grandes, ¿qué efecto producen las hipérboles sobre el reencuentro de los personajes?",
-                "options": [
-                        "Presentan el amor como un ciclo que inevitablemente se repite.",
-                        "Describen a dos personas que sufren y se alegran porque estaban destinadas a reencontrarse.",
-                        "Exageran la intensidad de las emociones que viven los personajes.",
-                        "Sugieren que en el amor la espontaneidad siempre supera a la planificación."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué conclusión implícita propone el texto sobre los 'centennials' y sus supuestas habilidades tecnológicas?",
-                "options": [
-                        "Las nuevas generaciones deben etiquetarse con mayor precisión.",
-                        "No existe una definición clara de dominio tecnológico.",
-                        "Existe una diferencia entre usar tecnología y comprenderla realmente.",
-                        "Es falso que los centennials tengan claridad sobre el papel de la tecnología."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué implicación social destaca Nuestra América al contraponer al 'hombre natural' con la erudición artificial?",
-                "options": [
-                        "La inteligencia superior debe dirigir necesariamente a las personas buenas.",
-                        "El ser humano americano valora el razonamiento auténtico y pertinente a su realidad.",
-                        "Los tiranos siempre terminan cayendo por su ideología.",
-                        "El hombre natural representa ante todo la defensa de la civilización."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "Según el pasaje de Crimen y castigo, ¿cómo afecta la pobreza al personaje?",
-                "options": [
-                        "Lo impulsa a buscar nuevas oportunidades.",
-                        "Afecta su vida social y su estado emocional.",
-                        "Hace que otras personas desconfíen constantemente de él.",
-                        "Lo conduce inevitablemente a comportamientos deshonestos."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué característica se atribuye a Cortázar en el texto citado?",
-                "options": [
-                        "Buscaba deliberadamente la admiración pública.",
-                        "Llegó a ganarse el afecto y la admiración de muchas personas.",
-                        "Mantenía una relación particular con otros escritores.",
-                        "Valoraba sobre todo la diferencia entre opulencia y discreción."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué idea central transmite el anciano a Edmond en el pasaje de El conde de Montecristo?",
-                "options": [
-                        "Alcanzar metas exige siempre esfuerzo y valentía.",
-                        "Las distancias y obstáculos hacen imposibles los sueños.",
-                        "Los consejos de los mayores siempre contienen sabiduría.",
-                        "La naturaleza humana se define principalmente por codicia y fama."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Cómo se caracteriza al personaje del pasaje de Orgullo y prejuicio?",
-                "options": [
-                        "Vicioso pero perseverante.",
-                        "Resentido e inflexible.",
-                        "Insensato e impulsivo.",
-                        "Consciente y completamente honesto respecto de su carácter."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "Según el texto sobre educación social, ¿qué función cumple el educador o educadora social?",
-                "options": [
-                        "Mejorar directamente la vida familiar de los jóvenes emprendedores.",
-                        "Aportar principalmente valores y conocimientos culturales.",
-                        "Proporcionar herramientas educativas que favorezcan el emprendimiento.",
-                        "Resolver específicamente las necesidades de los emprendedores."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué conclusión sostiene el texto sobre el uso de inteligencia artificial en empresas?",
-                "options": [
-                        "Toda organización que use IA tendrá éxito.",
-                        "La IA ha avanzado lentamente porque es incomprendida.",
-                        "Su utilidad empresarial depende de comprender sus aplicaciones concretas.",
-                        "Su objetivo principal es distinguir información verdadera de falsa."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué se destaca en el texto sobre graduados universitarios y desempleo en Costa Rica?",
-                "options": [
-                        "Más graduados necesariamente producen más desempleo.",
-                        "Las tasas de desempleo pueden variar según la respuesta y características de la sociedad.",
-                        "Las autoridades deben actuar de inmediato ante cualquier aumento del desempleo.",
-                        "Las políticas sociales pueden controlar por sí solas el desempleo profesional."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué función se atribuye a la literatura mediante la imaginación en el texto sobre América?",
-                "options": [
-                        "Debe cumplir obligatoriamente una misión política y social.",
-                        "Tiene como principal tarea denunciar a los dictadores.",
-                        "Permite acercarse a la realidad y a la historia complejas de América.",
-                        "Registra fielmente todas las transformaciones históricas de los países oprimidos."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué posición transmite el texto de TikTok sobre su papel actual?",
-                "options": [
-                        "Sigue siendo principalmente una plataforma de entretenimiento breve.",
-                        "Refleja directamente todas las prácticas culturales de la sociedad digital.",
-                        "Su impacto se basa esencialmente en repetir formatos virales.",
-                        "Ha ampliado su función y también actúa como espacio diverso de comunicación."
-                ],
-                "answer": 3
-        },
-        {
-                "q": "En el poema de la Generación del 27, ¿qué representa la imagen del 'tronco sin ramas'?",
-                "options": [
-                        "El deseo de aislarse del sufrimiento amoroso.",
-                        "La sensación de estar incompleto y sin plenitud afectiva.",
-                        "La aceptación serena del dolor como algo inevitable.",
-                        "Una etapa temporal antes de superar el sufrimiento."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "En el pasaje sobre una pareja cuya relación se ha vuelto rutinaria, ¿qué significa que el deseo está 'amaestrado'?",
-                "options": [
-                        "La pareja funciona mediante acuerdos explícitos.",
-                        "La relación está domesticada por la rutina y ha perdido espontaneidad.",
-                        "El amor desapareció por completo y solo queda una relación funcional.",
-                        "Normas externas impiden expresar los sentimientos."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "Según Sganarelle en Don Juan, ¿qué revela su postura frente al mundo?",
-                "options": [
-                        "El mundo funciona solamente según principios objetivos y racionales.",
-                        "Los eruditos han colocado al ser humano en el centro del universo.",
-                        "Existe un orden superior que se percibe en el funcionamiento del mundo.",
-                        "Los misterios del mundo siempre son imposibles de comprender."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué refleja el pasaje de El perfume sobre el cambio del conocimiento científico?",
-                "options": [
-                        "La ciencia ya logró describir todo lo existente.",
-                        "El conocimiento se revisa y reconstruye continuamente.",
-                        "Las ideas científicas modernas han llevado a la humanidad al error.",
-                        "El conocimiento humano se vuelve cada vez más misterioso."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué posición social muestra el fragmento de El señor presidente sobre las mujeres que esperan a los presos?",
-                "options": [
-                        "La sociedad desatiende especialmente a las personas pobres.",
-                        "El amor maternal permanece a pesar de las dificultades.",
-                        "La religión puede reivindicar a las víctimas de persecución política.",
-                        "Las personas perseguidas recurren a lo divino para escapar del autoritarismo."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué postura social se desprende del estudio citado sobre hábitos saludables?",
-                "options": [
-                        "La población presenta importantes deficiencias en sus hábitos de salud.",
-                        "El estudio se centra especialmente en la longevidad masculina.",
-                        "La responsabilidad de aumentar los hábitos saludables es únicamente individual.",
-                        "Los hábitos saludables se relacionan con una mayor esperanza de vida."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué sostiene el texto sobre consumismo?",
-                "options": [
-                        "El consumidor crítico siempre reconoce las estrategias comerciales.",
-                        "Comprar algo innecesario y no usarlo constituye por sí mismo una patología.",
-                        "El sistema económico y el modelo social favorecen el consumismo.",
-                        "La principal preocupación social es únicamente la compra compulsiva."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué consecuencia del acaparamiento compulsivo destaca el texto?",
-                "options": [
-                        "Las viviendas pueden contener todos los bienes acumulados.",
-                        "La acumulación puede impedir que los espacios se usen para su propósito original.",
-                        "Las personas compulsivas conservan todo porque utilizan cada objeto.",
-                        "Los acumuladores necesariamente tienen conflictos constantes con otras personas."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué implicación social presenta Nuestra América en el pasaje sobre el 'hombre bueno'?",
-                "options": [
-                        "El ser humano actúa principalmente por intereses individuales.",
-                        "Las personas aceptan sin cuestionar las formas de poder.",
-                        "El ser humano puede reconocer y respetar la grandeza auténtica y la belleza.",
-                        "La conducta depende principalmente de emociones pasajeras."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Cómo presenta El perfume a Diderot, D'Alembert, Voltaire y Rousseau?",
-                "options": [
-                        "Como pensadores plenamente aceptados por las instituciones.",
-                        "Como promotores de ciencia separados de conflictos sociales.",
-                        "Como intelectuales aceptados sin oposición por toda la sociedad.",
-                        "Como figuras vistas por algunos sectores como una amenaza al orden establecido."
-                ],
-                "answer": 3
-        },
-        {
-                "q": "En Cumbres borrascosas, ¿qué efecto comunica la expresión exagerada de Catalina sobre una posible respuesta extrema?",
-                "options": [
-                        "El conflicto surge por exagerar situaciones cotidianas.",
-                        "La condena moral impide toda relación social.",
-                        "No existe posibilidad de reconciliarse con una persona rechazada.",
-                        "Una acción puede producir consecuencias desproporcionadas a su intención."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "Según Elena en Sueño de una noche de verano, ¿qué efecto atribuye al amor?",
-                "options": [
-                        "Hace aceptar todos los defectos y virtudes.",
-                        "Reinterpreta la realidad desde una percepción subjetiva.",
-                        "Permite percibir mejor la belleza física mediante los sentidos.",
-                        "Modifica literalmente la mente de las personas."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué exige, según el texto, comprender realmente un texto escrito?",
-                "options": [
-                        "Contar exclusivamente con buenas habilidades deductivas.",
-                        "Entender primero la decodificación de cada palabra.",
-                        "Relacionar el significado textual con el contexto sociocultural y los saberes previos.",
-                        "Vincular cada información histórica con experiencias personales."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué idea implícita sobre Edad Media y Modernidad sostiene el texto?",
-                "options": [
-                        "La Edad Media fue una época pacífica.",
-                        "La descripción negativa de la Edad Media puede ser una simplificación engañosa.",
-                        "La Edad Media no puede compararse en ningún sentido con la Modernidad.",
-                        "Ambas épocas se complementan históricamente."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué conclusión sobre el arte se desprende del texto?",
-                "options": [
-                        "Las personas valoran el arte naturalmente.",
-                        "El arte debe juzgarse solo por su contenido.",
-                        "El arte sirve principalmente para llenar vacíos emocionales.",
-                        "El arte puede trascender su época y permanecer en el tiempo."
-                ],
-                "answer": 3
-        },
-        {
-                "q": "¿Qué implicación social se desprende del pasaje sobre la expansión de una compañía sobre las tierras de los pobladores?",
-                "options": [
-                        "Critica políticas específicas de ayuda social a agricultores.",
-                        "Muestra el interés de la compañía por defender a los trabajadores.",
-                        "Destaca únicamente la resistencia de propietarios ante perder tierras.",
-                        "Expone la expansión territorial y la marginación de poblaciones locales."
-                ],
-                "answer": 3
-        },
-        {
-                "q": "¿Qué enseñanza sobre Don Quijote se destaca en el texto?",
-                "options": [
-                        "El propósito de la caballería es vencer siempre.",
-                        "La vida exige soportar las burlas de la realidad.",
-                        "La vida es impredecible y requiere enfrentar los desafíos con valentía.",
-                        "Las convicciones de un caballero necesariamente cambian con la realidad."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué conclusión social transmite el pasaje sobre la evolución y el riesgo de destrucción mediante la ciencia?",
-                "options": [
-                        "La humanidad debería reducir al máximo los avances científicos.",
-                        "Vivir sin armas es, por sí mismo, el mayor logro humano.",
-                        "La evolución del planeta ha violado inevitablemente todas las normas éticas.",
-                        "La unión por la paz es necesaria para evitar una posible destrucción global."
-                ],
-                "answer": 3
-        },
-        {
-                "q": "¿Qué conclusión sobre inteligencia artificial se obtiene del texto informativo?",
-                "options": [
-                        "La IA ofrece beneficios importantes aunque también genere cuestionamientos.",
-                        "Sus principales problemas éticos se limitan al almacenamiento de datos.",
-                        "La IA transforma solamente herramientas digitales y no otros ámbitos.",
-                        "La IA puede experimentar emociones humanas."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué destaca el texto sobre turismo de proximidad y desarrollo sostenible en el Caribe Norte?",
-                "options": [
-                        "El turismo puede poner en peligro necesariamente la biodiversidad.",
-                        "La conservación natural garantiza por sí sola el éxito turístico.",
-                        "El Caribe Norte es la zona turística más desarrollada del país.",
-                        "El turismo sostenible puede aportar beneficios que van más allá de reactivar la economía."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué conclusión presenta el texto sobre los atajos cognitivos de la mente humana?",
-                "options": [
-                        "Los errores de juicio surgen principalmente por falta de educación.",
-                        "La racionalidad aumenta simplemente eliminando generalizaciones.",
-                        "La mente intenta acumular la mayor cantidad posible de información.",
-                        "Las personas simplifican la realidad mediante esquemas que pueden dificultar cambios de pensamiento."
-                ],
-                "answer": 3
-        },
-        {
-                "q": "¿Qué posición sobre la agricultura se desprende del discurso de Lieuvain?",
-                "options": [
-                        "La agricultura es fundamental para la subsistencia humana.",
-                        "Solo las personas pobres dependen de la agricultura.",
-                        "Los agricultores destacan sobre todo por usar tecnología para producir alimentos.",
-                        "La agricultura tiene un papel secundario frente a la industria."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué posición sobre la justicia social latinoamericana presenta el texto?",
-                "options": [
-                        "Debe construirse considerando la historia y realidad propias de América Latina.",
-                        "La historia latinoamericana se explica principalmente por la intervención de países ricos.",
-                        "Los modelos europeos han garantizado los cambios sociales positivos de América Latina.",
-                        "La soledad latinoamericana fue impuesta directamente por las grandes potencias."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "Según el texto sobre emprendimiento, ¿qué idea se intenta desmontar?",
-                "options": [
-                        "Los hogares y centros educativos deben fortalecer sus relaciones.",
-                        "El éxito empresarial depende de formar alianzas estratégicas.",
-                        "Una persona puede aprender a emprender pese a dificultades.",
-                        "Emprender no debe entenderse como una condena inevitable."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué función cumple la inserción laboral juvenil según el texto?",
-                "options": [
-                        "La integración social determina por sí sola la independencia económica.",
-                        "Todo desarrollo socioeconómico depende exclusivamente del empleo juvenil.",
-                        "El empleo juvenil favorece tanto la independencia económica como la integración social.",
-                        "Trabajar solo dignifica a quienes buscan mejorar económicamente."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué conclusión se desprende del texto sobre emociones y lectura literaria?",
-                "options": [
-                        "La calidad estética depende de las emociones que produce.",
-                        "Para comprender literatura se debe identificar totalmente con los personajes.",
-                        "La implicación emocional influye en cuánto participa el lector en la obra.",
-                        "El lector debe adoptar una postura racional ante toda literatura."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué característica del personaje de Mujeres de ojos grandes se resalta mediante las imágenes retóricas sobre su voz y su capacidad para captar detalles?",
-                "options": [
-                        "Tiene un carácter intenso y ágil con sus interlocutores.",
-                        "Usa el lenguaje de forma comunicativa y desafiante.",
-                        "Es hábil para encontrar y formular con precisión aspectos de otras personas.",
-                        "Convierte cualquier dificultad en una ventaja evidente."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué transmite la imagen de una vida comparada con un solar vacío y rodeada de niebla en Murámonos Federico?",
-                "options": [
-                        "Una existencia solitaria y marcada por la sensación de abandono.",
-                        "Un fuerte deseo de reconocimiento personal.",
-                        "Ansiedad permanente ante un futuro incierto.",
-                        "La necesidad de reconciliarse con la familia para sentirse útil."
-                ],
-                "answer": 0
-        },
-        {
-                "q": "¿Qué papel cumple la propiocepción según el texto?",
-                "options": [
-                        "Permite percibir solamente el cuerpo cuando está quieto.",
-                        "Es importante solo en actividades físicas intensas.",
-                        "Ayuda decisivamente al equilibrio y a la coordinación de los movimientos.",
-                        "Permite realizar algunas acciones inconscientes de manera ocasional."
-                ],
-                "answer": 2
-        },
-        {
-                "q": "¿Qué se infiere sobre el enfoque cultural de la globalización?",
-                "options": [
-                        "Debe basarse en una creación artística diversa que aspire a universalizarse.",
-                        "Debe analizarse desde la pluralidad de expresiones y culturas.",
-                        "Se caracteriza principalmente por contradicciones y amenazas globales.",
-                        "Ha generado una nueva red horizontal orientada ante todo a la inclusión social."
-                ],
-                "answer": 1
-        },
-        {
-                "q": "¿Qué implicación social destaca el texto sobre las batallas ganadas y perdidas?",
-                "options": [
-                        "Perder una batalla genera exactamente el mismo coraje que ganarla.",
-                        "Además de valorar las victorias, es importante aprender a perder.",
-                        "Respetar a los muertos y derrotados demuestra madurez emocional.",
-                        "Comprender todos los opuestos de la vida conduce directamente a la sabiduría individual."
-                ],
-                "answer": 0
-        }
-]
     },
-
+    
     "Ciencias": {
         "Bloque 1: Magnitudes físicas": [
             {
